@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300" height="200"/>
 </div>
 <h3>
-:man_technologist: Soy Alejandro Palacio. Tecnólogo en sistemas de información y desarrollador Full Stack con orientación al Frontend,
+:man_technologist: Soy Alejandro Palacio. Tecnólogo en sistemas de información y desarrollador Full Stack con orientación al Backend,
 siempre caracterizado por la buena actitud y la resiliencia en situaciones difíciles, con mentalidad de aprendizaje constante.
 </h3>
 
